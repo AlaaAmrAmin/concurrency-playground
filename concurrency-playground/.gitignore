@@ -1,0 +1,33 @@
+# Xcode
+###########################################
+# User-specific files
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata/
+
+# Build products
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM/
+*.app.dSYM/
+
+# Xcode specific
+xcuserdata/
+*.swp
+*.swo
+
+
+# User-specific and temporary files
+###########################################
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Other
+###########################################
+# macOS system files
+.DS_Store
